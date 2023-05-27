@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/AIsistent.Api/obj
+/src/AIsistent.Api/AIsistent.Api.csproj.user
+/src/AIsistent.Api/bin/Debug/net6.0
